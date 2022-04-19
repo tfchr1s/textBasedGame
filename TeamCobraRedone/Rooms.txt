@@ -1,0 +1,212 @@
+1
+This is where the guards spend their day locked away, watching us shuttle around the building. There's a guard in here now, but they are asleep, let's keep it that way. I wish we had access to the computers here... I wonder what’s locked away in all these drawers... I can go east from here.
+East
+16
+----
+
+
+
+2
+It was quite the climb getting up here, I can see the whole prison from here. I can go East or West from here.
+East
+3
+West
+7
+----
+
+
+
+3
+Feels like outside, but it ain’t... At least there’s things to do here. I can go South or West from here.
+South
+19
+West
+2
+----
+
+
+
+4
+The janitor closet, not so roomy, but it should keep me hidden enough. I can go West from here.
+West
+12
+----
+
+
+
+5
+Intake Area	Looks like this is where I initially got in here. I can go North from here.
+North
+18
+----
+
+
+
+6
+The break room is where the guards lounge around. Hmm… shouldn’t poke my nose around here. Could get in alotta trouble… That guard is sleeping! Must’ve been the donuts. This’s my chance to slip in and see what they've got. I can go North from here.
+North
+18
+----
+
+
+
+7
+The garden… not really into this kinda stuff, but it would make hiding things much easier. Who knew prisoners had a knack for gardening. Most of the time, the media portrays them as rabid animals. I can go South or East from here.
+East
+2
+South
+20
+----
+
+
+
+8
+Disgusting, decrepit, and dank. This area’s too open. Anyone and everyone can see what you’re doing here. There’s a particular gang that hangs around here. Whether rumors of their actions are true, I don’t even wanna know... I can go West from here.
+West
+15
+----
+
+
+
+9
+Area open to visitation. Under heavy protection. Only the sounds of murmurs and sad expressions fill the room. No one has come to visit me though... I can go South from here.
+South
+18
+----
+
+
+
+10
+A Dark room lit by a buzzing white light from the ceiling. The pungent smell of old paint and sweat fills the room. The cell contains a small toilet in the corner and a bed along the wall. I can go South from here.
+South
+15
+----
+
+
+
+11
+My Cell is a Dark room lit by a buzzing white light from the ceiling. The pungent smell of old paint and sweat fills the room. The cell contains a small toilet in the corner and a bed along the wall. I can go North from here.
+North
+15
+----
+
+
+
+12
+A Dimly lit, damp room full of hushed voices and whispers. Not very crowded, but definitely an overwhelming presence of intellectuals. I can go South or East from here.
+East
+4
+South
+18
+----
+
+
+
+13
+This kitchen is a filthy pigsty. And all of meals come from here…! I can go East from here.
+East
+14
+----
+
+
+
+14
+This is the Cafeteria. Just don’t make eye contact with anyone, and you’ll be fine. I can go in any cardinal direction from here.
+North
+19
+East
+18
+South
+17
+West
+13
+----
+North
+Monster, Puzzle
+knife
+15
+A Dank and boring hallway. Dirty floors riddled with trash. The walls have a large “1” painted on them. I can go in any cardinal direction from here.
+North
+10
+East
+8
+South
+11
+West
+16
+----
+
+
+
+16
+A bright and clean hallway. Should’ve expected it to be clean, considering the Guard Room is next door. The walls have a large “2” painted on them. I can go North, East, or West from here.
+North
+17
+East
+15
+West
+1
+----
+
+
+
+17
+A particular gang hangs around here. Gotta get out of here, fast! The walls have a large “3” painted on them. I can go North or South from here.
+North
+14
+South
+16
+----
+
+
+
+18
+A long hallway with a dog in front of two doors. The dog’s staring at me. The heck does it even want? The walls have a large “4” painted on them. I can go North, South or West from here.
+North
+12
+South
+6
+West
+14
+----
+North and South
+Puzzle, Monster
+bone
+19
+A bright and boring hallway. Yuck! That stench...! Oh... that trash can. Filthy... The walls have a large “5” painted on them. I can go North or South from here.
+North
+3
+South
+14
+----
+
+
+
+20
+Room 20: I Haven’t played kickball in years. This brings back memories. I can go North or West from here.
+North
+7
+West
+21
+----
+West
+Puzzle
+shiv
+21
+Room 21: An Electrified border fence. It is low enough to climb over if you just had a way to avoid being zapped.
+East
+20
+West
+22
+----
+West
+Puzzle
+rubber gloves
+22
+You use your rubber gloves to hop the electric fence and make your escape! You've Won!
+East
+21
+----
+
+
+

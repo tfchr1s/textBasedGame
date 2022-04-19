@@ -1,0 +1,42 @@
+1
+Sleeping Guard
+This guard is asleep on the job
+5
+20
+1
+2
+Powder Puff Bois
+What kind of gang is this? They look... not right in the head.
+1
+20
+17
+3
+Smelly Chef
+The chef looks scary. That grin will give me night terrors.
+10
+5
+13
+4
+Woke Guard
+Hmm very sus...
+10
+5
+16
+5
+Bad Dude
+Very powerful, very beautiful
+3
+40
+14
+6
+Pitbull-y
+Not to be confused with pitbull
+20
+20
+18
+7
+Soap Squad
+Not the type of people you expect to keep you clean
+1
+1
+8

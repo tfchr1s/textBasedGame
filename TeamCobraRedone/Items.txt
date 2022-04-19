@@ -1,0 +1,60 @@
+Paper Clip
+There is a sole contraband paperclip that the cleaning crew forgot to clean up when they came by, it could probably be used to unlock a door
+11
+0
+0
+false
+Bone
+A perfect chew toy for a large dog.
+13
+0
+0
+false
+Paper
+Piece of paper that says “RYGB”
+15
+0
+0
+false
+Rubber Gloves
+A pair of protective gloves. Equip: 20 Health
+12
+0
+20
+true
+KeyCard
+The guard is asleep, with their keycard sitting right on the table. You’re going to need that to access the next hallway.
+1
+0
+0
+true
+Bag of White Powder
+Tiny ziplock bag with some weird white powdery substance...
+1
+0
+0
+true
+Knife
+A Sharp knife. Equip:10 attack
+10
+10
+0
+false
+Stack of Cash
+Green, green, easy money!
+17
+0
+0
+true
+Shiv
+Little shiv, not sharp enough to kill someone but strong enough to poke a hole in something. Equip:+5 attack
+6
+5
+0
+false
+Rubber Shoes
+Little rubber shoes for your little feet Equip: "+20 Health"
+7
+0
+20
+false

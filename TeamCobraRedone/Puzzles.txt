@@ -1,0 +1,72 @@
+1
+Color Puzzle
+Put the colors into the right coordination by color initial(Red, blue, yellow, green)
+RYGB
+
+1
+3
+Finally. Who keeps such a silly lock anyways? Wow! Omg look at all these contraband items
+Forget it, I can unlock this later
+2
+Sugar Puzzle
+There’s a gang of tired and sick looking men mumbling to themselves about how they haven’t been able to get what they needed in a long time. They see you approach and say hey! Do you got any “sugar” we can buy off of you?
+null
+Bag of White Powder
+17
+3
+That was the easiest $1500 I have ever made...
+I don’t know what you guys want from me...
+3
+Prisoner Puzzle
+A hefty prisoner is preventing access to HALLWAY4. He needs something sharp....
+null
+KNIFE
+14
+2
+I’m glad he moved. I can’t imagine what he’s going to do with that. Maybe he’ll do some woodworking…?
+He seems to want a knife.
+4
+Chef Puzzle
+The Chef is in need of some flavor...perhaps I have something that could help him out.
+null
+spice
+13
+3
+Something tells me that it wasn't baking soda… Thanks for the chicken though
+Solve Puzzle Failed
+5
+Dog puzzle
+The dog looks hungry
+null
+BONE
+18
+3
+The dog warms up to me after I give it something to chew on.
+I’m not looking to get bit today. Maybe I can toss it a chew toy
+6
+Puzzle 6
+Poster in LIBRARY that says “I love books, I love that moment when you can open one and sink into it. You can escape from the world into a story that’s way more interesting than yours will ever be - Elizabeth Scott”
+READ BOOK
+
+12
+3
+A pair of rubber gloves falls out from between the pages of the book. It’s 5pm, and its time for rec, head towards the indoor rec room and head outside and find your way towards the kickball field, make sure to make the best use out of the items you found here
+Books are an amazing thing and can be the solution to life's mysteries.
+7
+Puzzle 7
+Its time for kickball, you are now the closest you’re going to be to escaping, the electrical fence is to the west of you, but there’s a bunch of guards, a group of men that are very passionate about kickball. There’s gotta be a way to distract the guards and make your escape!
+null
+shiv
+20
+3
+The guards gather around the kickball and begin bickering about who popped it. Time to make your escape.
+I wonder if there is an item I could use to pop this ball...
+8
+puzzle 8
+I wonder what I could use to avoid being shocked while climbing this fence...
+null
+rubber gloves
+21
+2
+You try touching the fence with the gloves, and you're safe! Climb to freedom!
+Perhaps a piece of non-conductive clothing could help me get over this fence...
